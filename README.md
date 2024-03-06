@@ -26,9 +26,9 @@
  <p align="center">
  
     
-- **Enthusiastic learner focused on Big Data, Data Engineering, BI, and Data Analysis.**
+- **I'm a Data Engineer with experience in designing and developing robust data pipelines, using tools such as Apache Spark, Apache Kafka, Hadoop, Apache Flink, Apache Airflow, Apache Hive, Apache Hbase, and programming languages like Python, Scala, Java and SQL.
+In addition, I have hands-on experience with high-scale data warehousing modeling and ETL tools, including Informatica and Talend**
 - **Data Management Trainee at Information Technology Institute (ITI) 9-month scholarship.**
-- **Fresh graduate Faculty of Engineerin at Mansoura University.**
 
  
  </p>
